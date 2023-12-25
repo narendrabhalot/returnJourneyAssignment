@@ -1,0 +1,5 @@
+[2023-12-25T09:41:03.371Z] GET request received for: /
+[2023-12-25T09:41:09.355Z] GET request received for: /
+[2023-12-25T09:41:15.041Z] GET request received for: //api/users
+[2023-12-25T09:41:34.706Z] GET request received for: /api/users
+[2023-12-25T09:45:22.837Z] POST request received for: /api/users
